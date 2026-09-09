@@ -6,7 +6,7 @@ body {
 .banner-container {
   position: relative;
   width: 100%;
-  max-height: 200px; /* Adjust based on your preferred height */
+  max-height: 250px; /* Adjust based on your preferred height */
   overflow: hidden;
 }
 
